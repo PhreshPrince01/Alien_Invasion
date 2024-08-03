@@ -44,8 +44,10 @@ Alien Invasion is a fast-paced game where you control a spaceship positioned at 
 
 ## Screenshots
 
-![Main Menu](screenshots/main_menu.png)
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](screenshots/screenshot1.png)
+![Gameplay](screenshots/screenshot2.png)
+![Gameplay](screenshots/screenshot3.png)
+![Gameplay](screenshots/screenshot4.png)
 
 ## Installation
 
