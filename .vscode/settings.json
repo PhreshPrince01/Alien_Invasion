@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./helper_functions",
+        "./Alien_Invastion/helper_functions"
+    ]
+}
